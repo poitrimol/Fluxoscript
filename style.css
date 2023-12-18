@@ -1,6 +1,17 @@
+/* modif css */
 
-=======
->>>>>>> 1936b75c0eba5c58c9a016d014ad25c98156f205
+/* color */
+.w3-maincolor,.w3-hover-greenpice:hover{color:#2D7C5A!important;background-color:#7ABC8F!important}
+.w3-fond,.w3-hover-black:hover{color:#000!important;background-color:#F8B674!important}
+.w3-minor,.w3-hover-green:hover{color:#2D7C5A!important;background-color:#2D7C5A!important}
+.w3-minorfond,.w3-hover-browlow:hover{color:#2D7C5A!important;background-color:#FFE3AF!important}
+.w3-link,.w3-hover-blue:hover{color:#2D7C5A!important;background-color:#00DFFF!important}
+
+
+h1{
+    color:#7ABC8F ;
+}
+
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
