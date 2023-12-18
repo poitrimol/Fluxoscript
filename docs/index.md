@@ -4,7 +4,6 @@
 <title>Formation Fluxoscript</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -38,9 +37,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 </div>
 
 <!-- Header -->
-<header class="w3-container w3-red w3-center" style="padding:128px 16px">
+<header class="w3-container w3-fond w3-center" style="padding:128px 16px">
   <h1 class="w3-margin w3-jumbo">START PAGE</h1>
-  <p class="w3-xlarge">Template by w3.css</p>
   <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button>
 </header>
 
@@ -48,10 +46,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <div class="w3-row-padding w3-padding-64 w3-container">
   <div class="w3-content">
     <div class="w3-twothird">
-      <h1>A propos :</h1>
-      <h5 class="w3-padding-32">CodeMaster Academy est une entreprise dédiée à la formation au code informatique, offrant des programmes éducatifs de qualité pour aider les individus à acquérir des compétences techniques essentielles dans le domaine de la programmation. Notre objectif est de démocratiser l'accès à l'éducation en informatique et de former la prochaine génération de développeurs talentueux.</h5>
+      <h1>Lorem Ipsum</h1>
+      <h5 class="w3-padding-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
 
-      <p class="w3-text-grey"></p>
+      <p class="w3-text-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
+        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+        laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
 
     <div class="w3-third w3-center">
@@ -68,65 +68,15 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
     </div>
 
     <div class="w3-twothird">
-      <h1>Nos Valeur :</h1>
-      <h5 class="w3-padding-32">
+      <h1>Lorem Ipsum</h1>
+      <h5 class="w3-padding-32">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h5>
 
-        Accessibilité : Nous croyons que l'éducation au code devrait être accessible à tous. Nos programmes sont conçus pour convenir aux débutants et aux professionnels cherchant à améliorer leurs compétences.<br>
-        
-        Qualité : La qualité de l'enseignement est au cœur de notre mission. Nos instructeurs sont des experts de l'industrie, passionnés par le partage de leur savoir et d'expériences pratiques.<br>
-        
-        Innovation : Nous restons à la pointe des technologies émergentes. Nos programmes sont constamment mis à jour pour refléter les dernières tendances de l'industrie et garantir que nos étudiants sont prêts à relever les défis du monde réel.</h5>
-
-      <p class="w3-text-grey"></p>
+      <p class="w3-text-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
+        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+        laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
   </div>
 </div>
-
-
-<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
-  <div class="w3-content">
-    <div class="w3-third w3-center">
-      <i class="fa fa-coffee w3-padding-64 w3-text-red w3-margin-right"></i>
-    </div>
-
-    <div class="w3-twothird">
-      <h1>Programmes de Formation :</h1>
-      <h5 class="w3-padding-32">
-        Cours intensifs de développement web : Apprenez les langages de programmation essentiels tels que HTML, CSS, JavaScript, et explorez les frameworks modernes pour construire des sites web dynamiques.<br>
-
-        Formation en développement logiciel : Plongez dans le monde du développement logiciel en maîtrisant des langages tels que Python, Java, et C++, et apprenez les meilleures pratiques de l'industrie.<br>
-        
-        Spécialisations avancées : Explorez des domaines spécifiques tels que l'intelligence artificielle, la cybersécurité, et la réalité virtuelle pour affiner vos compétences et vous démarquer sur le marché du travail.</h5>
-
-      <p class="w3-text-grey"></p>
-    </div>
-  </div>
-</div>
-
-
-<div class="w3-row-padding w3-padding-64 w3-container">
-  <div class="w3-content">
-    <div class="w3-twothird">
-      <h1>Pourquoi nous choisir ?</h1>
-      <h5 class="w3-padding-32">
-        Accompagnement personnalisé : Nos instructeurs sont dévoués à votre réussite. Bénéficiez d'un accompagnement personnalisé et de retours constructifs tout au long de votre parcours.<br>
-
-        Projets pratiques : Mettez en pratique vos connaissances grâce à des projets réels et des défis stimulants pour renforcer vos compétences de manière concrète.<br>
-        
-        Réseau professionnel : Connectez-vous avec d'autres passionnés de technologie, des mentors et des employeurs potentiels grâce à notre réseau professionnel en expansion.</h5>
-
-      <p class="w3-text-grey"></p>
-    </div>
-    <div class="w3-third w3-center">
-      <div class="w3-img">
-        <figure>
-          <img src="./img/point.webp" alt="point d'intérogation"><figcaption>point d'intérogation</figcaption>
-        </figure>
-      </div>
-    </div>
-  </div>
-</div>
-
 
 <div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
     <h1 class="w3-margin w3-xlarge">Quote of the day: live life</h1>
@@ -159,3 +109,22 @@ function myFunction() {
 
 </body>
 </html>
+
+
+# Welcome to MkDocs
+
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+## Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
